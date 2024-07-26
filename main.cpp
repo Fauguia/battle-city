@@ -1,5 +1,5 @@
 int main(){
-	std::cout<<"HelloWorld"<<std::endl;
+	std::cout<<"HelloWordsdasdld"<<std::endl;
+	std::cout<<"sadoasdas"<<std::endl;
 	return 0;
 }
-
